@@ -1,5 +1,3 @@
-//this is a area program....
-//1 comment added.
 #include<stdio.h>
 void main()
 {
